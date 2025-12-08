@@ -26,4 +26,4 @@ encourage students to maintain consistent study habits over time.
 - **Front-end/Core App:** Flutter
 - **Platform Specific:** Kotlin
 - **Back-end/Database:** Firebase
-- **Design & Mockups:**Figma/Canva
+- **Design & Mockups:** Figma/Canva
