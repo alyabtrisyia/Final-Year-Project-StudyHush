@@ -21,3 +21,9 @@ sessions.
 analytics dashboard into a single platform.
 3. To implement a motivational system using streak tracking and gamification to
 encourage students to maintain consistent study habits over time.
+
+# Key Technologies Used
+- **Front-end/Core App:** Flutter
+- **Platform Specific:** Kotlin
+- **Back-end/Database:** Firebase
+- **Design & Mockups:**Figma/Canva
