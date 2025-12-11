@@ -6,11 +6,11 @@ The app brings together several helpful study tools in one platform including ap
 By the end of this project, a complete and functional Android version of StudyHush will be developed to support students in building consistent, effective, and distraction-free study routines.
 
 # Problem Statement
-Students often lose focus because their phones interrupt their study sessions. This makes it difficult for them to manage their time and finish their tasks properly.
+- Students often lose focus because their phones interrupt their study sessions. This makes it difficult for them to manage their time and finish their tasks properly.
 
-Moreover, most existing applications offer only a limited range of features individually. This forces undergraduate students to ineffectively switch between multiple apps to manage a single study session. 
+- Most existing applications offer only a limited range of features individually. This forces undergraduate students to ineffectively switch between multiple apps to manage a single study session. 
 
-Additionally, many apps lack motivational elements like streaks and gamification, making it hard for students to stay consistent and build long-term study habits.
+- Many apps lack motivational elements like streaks and gamification, making it hard for students to stay consistent and build long-term study habits.
 
 # Objetives 
 The following are the objectives to be applied within the application that being develop :
